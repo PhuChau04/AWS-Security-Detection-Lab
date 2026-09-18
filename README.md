@@ -1,4 +1,6 @@
 <h1>From Network to Cloud: AWS Security Detection Lab</h1>
+ 
+ [View the Full Lab Walkthrough](LAB-Walkthrough/LAB-WALKTHROUGH.md)
 
 <h2>Description</h2>
 Built a simulated AWS environment using LocalStack and Docker to demonstrate cloud security concepts through hands-on testing. The project explores S3 and IAM misconfigurations, remote exploitation from Kali Linux, and the development of a Python/Boto3 detection script to identify publicly exposed S3 buckets.
